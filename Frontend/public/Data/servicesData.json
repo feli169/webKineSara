@@ -11,10 +11,93 @@
     "description": "Reduce el estrés y mejora el bienestar general con técnicas suaves y fluidas.",
     "icon": "🌿"
   },
- {
+  {
     "id": 3,
     "title": "Masaje Deportivo",
     "description": "Orientado a quienes practican actividad física. Ayuda a prevenir lesiones, mejorar el rendimiento y acelerar la recuperación muscular.",
     "icon": "🏋️‍♂️"
+  },
+
+  {
+    "id": 8,
+    "title": "Masaje Terapéutico",
+    "description": "Combina diversas técnicas para tratar dolencias específicas, mejorar la movilidad y aliviar el dolor.",
+    "icon": "👐"
+  },
+
+  {
+    "id": 9,
+    "title": "Masaje Craneocefálico",
+    "description": "Técnica suave que se enfoca en la cabeza, cuello y cara para aliviar tensiones. Recomendado para quienes sufren de dolores de cabeza constantes y bruxismo.",
+    "icon": "🧠"
+  },
+  {
+    "id": 7,
+    "title": "Masaje Prenatal",
+    "description": "Diseñado para aliviar las molestias comunes durante el embarazo, promoviendo la relajación y el bienestar tanto para la madre como para el bebé.",
+    "icon": "🤰"
+  },
+
+  {
+    "id": 10,
+    "title": "Masaje Thailandes",
+    "description": "Combinación de estiramientos y presiones que mejora la flexibilidad, alivia tensiones y equilibra la energía del cuerpo.",
+    "icon": "🦶"
+  },
+
+  {
+    "id": 6,
+    "title": "Drenaje Linfático",
+    "description": "Técnica suave que estimula el sistema linfático para reducir la retención de líquidos y mejorar la circulación.",
+    "icon": "💧"
+  },
+  {
+    "id": 11,
+    "title": "Masaje Reductivo",
+    "description": "Técnica enfocada en moldear y tonificar el cuerpo, ayudando a reducir medidas y mejorar la apariencia de la piel.",
+    "icon": "📉"
+  },
+
+  {
+    "id": 4,
+    "title": "Ventosas Terapéuticas",
+    "description": "Técnica que utiliza copas de succión para mejorar la circulación, aliviar el dolor muscular y promover la relajación.",
+    "icon": "🐙"
+  },
+  {
+    "id": 5,
+    "title": "Punción Seca",
+    "description": "Técnica utilizada para tratar puntos gatillo musculares, aliviando el dolor y mejorando la función muscular.",
+    "icon": "🪡"
+  },
+{
+    "id": 16,
+    "title": "Botas de Presoterapia",
+    "description": "Terapia de compresión que mejora la circulación sanguínea y linfática, ayudando a reducir la hinchazón y la fatiga en las piernas.",
+    "icon": "🦵"
+},
+  {
+    "id": 12,
+    "title": "Ejercicios Terapéuticos",
+    "description": "Programa personalizado de ejercicios para mejorar la movilidad, fortalecer músculos y rehabilitar lesiones.",
+    "icon": "🤸‍♂️"
+  },
+{    "id": 15,
+    "title": "Rehabilitación Deportiva y Musculoesquelética",
+    "description": "Rehabilitación y prevención de lesiones deportivas mediante técnicas especializadas y programas de entrenamiento personalizados, enfocados a la óptima recuperación .",
+    "icon": "🏃‍♂️"
+  }
+  ,
+  {
+    "id": 13,
+    "title": "Actividad Física para Adulto Mayor",
+    "description": "Atención especializada para adultos mayores, enfocada en mantener la movilidad, prevenir caídas y mejorar la calidad de vida.",
+    "icon": "👵"
+  },
+  {
+    "id": 14,
+    "title": "Gift Card",
+    "description": "Regala bienestar con nuestras gift cards para sesiones de kinesiología y masajes.",
+    "icon": "🎁"
   }
 ]
