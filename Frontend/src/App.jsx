@@ -1,6 +1,6 @@
 import Header from "./Components/Header"
 import Hero from "./Components/Hero"
-import Services from "./Components/Service"
+import Service from "./Components/Service"
 import Blog from "./Components/Blog"
 import Footer from "./Components/Footer"
 import Contact from "./Components/Contact"
@@ -11,7 +11,7 @@ function App() {
       <Header />
       <main className="flex-grow">
         <Hero />
-        <Services />
+        <Service />
         <Blog />
       </main>
       <Footer />
