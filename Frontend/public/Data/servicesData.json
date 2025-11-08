@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Masaje Descontracturante",
+    "description": "Alivia tensiones musculares profundas, mejora la circulación y recupera movilidad.",
+    "icon": "💆‍♀️"
+  },
+  {
+    "id": 2,
+    "title": "Masaje Relajante",
+    "description": "Reduce el estrés y mejora el bienestar general con técnicas suaves y fluidas.",
+    "icon": "🌿"
+  },
+ {
+    "id": 3,
+    "title": "Masaje Deportivo",
+    "description": "Orientado a quienes practican actividad física. Ayuda a prevenir lesiones, mejorar el rendimiento y acelerar la recuperación muscular.",
+    "icon": "🏋️‍♂️"
+  }
+]
