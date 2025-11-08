@@ -1,8 +1,8 @@
 import Header from "./Components/Header"
 import Hero from "./Components/Hero"
-import Services from "./components/Service"
-import Blog from "./components/Blog"
-import Footer from "./components/Footer"
+import Services from "./Components/Service"
+import Blog from "./Components/Blog"
+import Footer from "./Components/Footer"
 import Contact from "./Components/Contact"
 
 function App() {
