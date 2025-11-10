@@ -5,7 +5,7 @@ const Hero = () => {
     <div>
    <section
   id="inicio"
-  className="bg-blue-100 flex flex-col lg:flex-row items-center justify-between mt-12 mb-4 px-6 lg:px-16 py-16 lg:py-24"
+  className="bg-blue-100 flex flex-col lg:flex-row items-center justify-between mt-28 mb-4 px-6 lg:px-16 py-16 lg:py-24"
 >
   {/* Texto principal */}
   <div className="flex flex-col lg:w-1/2 space-y-6 order-1 lg:order-1">
